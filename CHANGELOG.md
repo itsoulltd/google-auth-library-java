@@ -1,5 +1,13 @@
 # Changelog
 
+### [0.20.1](https://www.github.com/googleapis/google-auth-library-java/compare/v0.20.0...v0.20.1) (2020-04-27)
+
+
+### Dependencies
+
+* update dependency com.google.http-client:google-http-client-bom to v1.35.0 ([#427](https://www.github.com/googleapis/google-auth-library-java/issues/427)) ([5494ec0](https://www.github.com/googleapis/google-auth-library-java/commit/5494ec0a73319fb955b3d7ba025aea9607020c4e))
+* update Guava to 29.0-android ([#426](https://www.github.com/googleapis/google-auth-library-java/issues/426)) ([0cd3c2e](https://www.github.com/googleapis/google-auth-library-java/commit/0cd3c2ec0aef3ff0f0379b32f9d05126442219b6))
+
 ## [0.20.0](https://www.github.com/googleapis/google-auth-library-java/compare/v0.19.0...v0.20.0) (2020-01-15)
 
 
